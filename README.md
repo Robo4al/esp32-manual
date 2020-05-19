@@ -12,6 +12,6 @@
 
 ![joystick](https://user-images.githubusercontent.com/50149818/82375541-1fefc300-99f7-11ea-96fc-b88b70b0a657.gif)
 
-ACESSE O MANUAL [AQUI](https://github.com/Robo4al/esp32-manual/blob/master/manual.pdf).
+**ACESSE O MANUAL [AQUI](https://github.com/Robo4al/esp32-manual/blob/master/manual.pdf).**
 
-ACESSE OS CÓDIGOS [AQUI](https://github.com/Robo4al/esp32-manual/tree/master/code).
+**ACESSE OS CÓDIGOS [AQUI](https://github.com/Robo4al/esp32-manual/tree/master/code).**
